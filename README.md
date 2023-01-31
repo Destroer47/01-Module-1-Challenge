@@ -1,5 +1,14 @@
 # First week homework - Semantic Tags #
 
+## Description ##
+Horiseon is a company that works on Search Engine Optimization, Online Reputation Management, Social Media Marketing
+
+## Our Website ##
+![Website Image](./assets/images/Capture.PNG)
+
+## Link ##
+https://destroer47.github.io/01-Module-1-Challenge/
+
 ## User Story ##
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
